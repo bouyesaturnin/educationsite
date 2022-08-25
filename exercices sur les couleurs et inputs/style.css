@@ -1,0 +1,38 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+input{
+    text-align: right;
+}
+
+ 
+#ecran td{
+    width: 20px;
+    height: 20px;
+}
+#pallette td{
+    width: 60px;
+    height: 60px;
+}
+
+.section{
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.parag{
+    display: none;
+    transition: ease 2s;
+}
+
+.active{
+    display: block;
+    
+}
